@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.caixadetexto{
+    background: blue;
+    border: 0;
+    border: 1px solid #000;
+    font-size: 18px;
+}
+form{
+    width: 400px;
+    border: 22px double #f00;
+    padding: 30px;
+}
